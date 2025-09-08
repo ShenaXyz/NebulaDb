@@ -3,5 +3,9 @@
     "username": "Shena",
     "password": "25",
     "role": "Developer"
-  }
+  },
+  {
+    "username": "RinnSkie",
+    "password": "1",
+    "role": "Owner"
 ]
