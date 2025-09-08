@@ -2,13 +2,5 @@
   {
     "username": "Shena",
     "password": "25",
-    "role": "Developer",
-    "expired": "3030-07-07"
-  },
-  {
-    "username": "Rinn",
-    "password": "123",
-    "role": "Tester",
-    "expired": "2025-09-09"
-  }
+    "role": "Developer"
 ]
